@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo|Open+Sans");
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');  
+/* font-family: 'Indie Flower', cursive; */
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico');  /*font-family: 'Pacifico', cursive; */
+
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker'); /*font-family: 'Permanent Marker', cursive; */
+
+body {
+  font-family: "Heebo", sans-serif;
+  padding: 10;
+}
+
+header {
+  background-color: #0097a7;
+  color: purple;
+  padding: 10px;
+}
+
+#page-title {
+  font-family: "Open Sans", sans-serif;
+    font-size: 50px;
+}
+
+#page-subtitle {
+  font-family: "Pacifico", cursive;
+  color: yellow;
+  font-size: 30px;
+}
+
+#info {
+  color: blue;
+  margin: 10px;
+}
+
+#dog {
+  height: 350px;
+  margin: 10px;
+}
+
+#page-ending {
+  height: 50px;
+  margin: 10px;
+    font-family: "Pacifico", cursive;
+  color: purple;
+  font-size: 30px;
+}
